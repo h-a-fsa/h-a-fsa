@@ -20,7 +20,7 @@ Bienvenue sur mon profil GitHub !
 
 🌱 Je suis en train d'apprendre et d'explorer de nouveaux outils en développement et en data.
 
-📫 Tu peux me contacter ici : [LinkedIn](https://www.linkedin.com)
+📫 Tu peux me contacter ici : [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/hafsa-el-mati-396434257/))
 
 ✨ Merci de visiter mon profil !
 
