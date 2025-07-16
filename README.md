@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Salut, je suis Hafsa 👋
+
+Bienvenue sur mon profil GitHub !
+
+🌱 Je suis en train d'apprendre et d'explorer de nouveaux outils en développement et en data.
+
+📫 Tu peux me contacter ici : [LinkedIn](https://www.linkedin.com)
+
+✨ Merci de visiter mon profil !
+
